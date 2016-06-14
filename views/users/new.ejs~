@@ -1,0 +1,9 @@
+<p>
+ Crear usuario:
+</p>
+
+<p>
+ <form method="post" action="/users" >
+  <% include_form.ejs %>
+ </form>
+</p>
